@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript bug related to type coercion with the + operator.  The bug arises from JavaScript's loose typing system, where the + operator will perform string concatenation if either operand is a string.  The solution showcases how to use stricter type checking or the Number() function to prevent unintended string concatenation.
